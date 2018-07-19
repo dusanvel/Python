@@ -10,7 +10,7 @@ Ekstenzija koja je neophodna za pokretanje je pytest.
 
 Installing:
 
-Potrebno je preuzeti folder sa GitHub-a ili pokrenuti komandu: git clone https://github,com/davidbujic/python. 
+Potrebno je preuzeti folder sa GitHub-a ili pokrenuti komandu: git clone https://github.com/davidbujic/python. 
 
 Running:
 
