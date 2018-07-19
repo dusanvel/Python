@@ -3,7 +3,7 @@
 _Hajde sad dodaj regularni sadrzaj u ovaj **README.MD_**.  
  Nekoliko napomena koje je trebalo da dobijes i od **Nikole** @nikilic :
 
-1. Vodi racuna o izboru imena i naslova. Repozitorij je ustvari ime tvog projekta i nikako ne moze da bude samo "Python" , moglo bi npr : mat_operacije_Python
+1. Vodi racuna o izboru imena i naslova. Repozitorij je ustvari ime tvog projekta i nikako ne moze da bude samo "Python" , moglo bi npr : **mat_operacije_Python**
 
 1. Preuzmi template za readme.md od @nikilic  . 
 
